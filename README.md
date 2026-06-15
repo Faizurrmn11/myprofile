@@ -1,2 +1,2 @@
 # myprofile
-ini project saya yg pertama kali
+ini project pertama kali saya
